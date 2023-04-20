@@ -1,0 +1,6 @@
+org/olayinka/app/fraud/FraudCheckController.class
+org/olayinka/app/fraud/FraudCheckService.class
+org/olayinka/app/FraudApplication.class
+org/olayinka/app/fraud/FraudCheckHistory.class
+org/olayinka/app/fraud/FraudCheckRepository.class
+org/olayinka/app/fraud/FraudCheckHistory$FraudCheckHistoryBuilder.class
